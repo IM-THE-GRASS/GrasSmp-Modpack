@@ -1,2 +1,2 @@
-# joshers-modpack
-The modpack for the Joshers server
+# GrasSmp-modpack
+The modpack for the GrasSmp server
