@@ -1,0 +1,31 @@
+# Random Directories
+.cache/
+.fabric/
+audioplayer_uploads/
+config/
+controllify-natives/
+crash-reports/
+data/
+defaultconfigs/
+essential/
+journeymap/
+logs/
+modernfix/
+saves/
+schematics/
+screenshots/
+shaderpacks/
+
+# Random Files
+emi.json
+hotbar.nbt
+irisUpdateInfo.json
+ops.json
+options.txt
+profile.json
+servers.dat
+servers.dat_old
+servers.essential.dat
+usercache.json
+usernamecache.json
+whitelist.json
